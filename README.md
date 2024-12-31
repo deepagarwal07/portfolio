@@ -51,7 +51,7 @@ For any inquiries or feedback:
 
 - **Email**: [agarwaldeep348@gmail.com](mailto:agarwaldeep348@gmail.com)
 - **Phone**: +91 6393733595
-- **LinkedIn**: [Profile Link](#)
+- **LinkedIn**: [Profile Link](http://www.linkedin.com/in/deep-agarwal-8a0363250)
 
 ## License
 
